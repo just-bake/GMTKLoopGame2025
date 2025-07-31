@@ -212,9 +212,9 @@ Camera:
   m_NormalizedViewPortRect:
     serializedVersion: 2
     x: 0
-    y: 0
-    width: 1
-    height: 1
+    y: 0.34583333
+    width: 0.2140625
+    height: 0.1875
   near clip plane: 0.3
   far clip plane: 1000
   field of view: 34
@@ -440,7 +440,7 @@ MonoBehaviour:
   loadWithTag: 0
   startLoadingAtStart: 1
   objectTag: 
-  sceneName: MainMenu
+  sceneName: MainMenuScene
   audioFadeDuration: 2
   audioSources: []
   loadingScreens:
