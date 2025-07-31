@@ -1,0 +1,14 @@
+{
+    "name": "com.justbake.GMTKLoopGame2025",
+    "rootNamespace": "gmtk",
+    "references": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
